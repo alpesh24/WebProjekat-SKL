@@ -1,0 +1,63 @@
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\appsettings.json
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\WP Liga.exe
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\WP Liga.deps.json
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\WP Liga.runtimeconfig.json
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\WP Liga.runtimeconfig.dev.json
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\WP Liga.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\ref\WP Liga.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\WP Liga.pdb
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.AssemblyInfo.cs
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\staticwebassets\WP Liga.StaticWebAssets.Manifest.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\staticwebassets\WP Liga.StaticWebAssets.xml
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\scopedcss\bundle\WP Liga.styles.css
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.RazorTargetAssemblyInfo.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.csproj.CopyComplete
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\ref\WP Liga.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.pdb
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\obj\Debug\net5.0\WP Liga.genruntimeconfig.cache
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aleksandar\OneDrive\Desktop\WP Liga\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
